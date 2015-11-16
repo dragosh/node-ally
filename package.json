@@ -1,5 +1,5 @@
 {
-  "name": "@dragos/node-ally",
+  "name": "@dragosh/node-ally",
   "description": "A minimal set of node modules tools to help you create next generation node modules",
   "version": "0.0.1-beta.0",
   "publishConfig": {},
