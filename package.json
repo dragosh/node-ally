@@ -1,11 +1,9 @@
 {
   "name": "@dragosh/node-ally",
   "description": "A minimal set of node modules tools to help you create next generation node modules",
-  "version": "0.0.1-beta.0",
+  "version": "1.0.0",
   "publishConfig": {},
-  "author": [
-    ""
-  ],
+  "author": "dragosh",
   "repository": {
     "type": "git",
     "url": "https://github.com/dragosh/node-ally.git"

@@ -1,14 +1,13 @@
 Node-ally
 =========
 
-A minimal set of node modules tools to help you create next generation node modules
+A minimal set of node modules tools to help you create next generation node modules using babel6.
 
 ## Installation
 
-  `npm i @dragos/node-ally -D -E`
+`npm i @dragos/node-ally -D -E`
 
 ## Examples
-
 
 ## Contributors
 
